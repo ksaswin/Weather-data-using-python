@@ -14,3 +14,8 @@ Location format: **city_name,country_code**
 To make it more precise put your city's name, comma, 2-letter country code (ISO3166). You will get all proper cities in the chosen country.<br />
 The order is important - **first city name then comma then country**.<br />
 Example - **__London, GB__** or **_New York, US__**.
+
+Run the following command to install the required python package:
+```
+pip3 install urllib3
+```
